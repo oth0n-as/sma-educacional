@@ -114,13 +114,23 @@ git clone https://github.com/SEU-USUARIO/sma-educacional.git
 cd sma-educacional
 ```
 
-### 3. Instalar dependências
+### 3. Crie o ambiente virtual:
+```bash
+python3 -m venv .venv
+```
+
+### 4. Ative o ambiente virtual:
+```bash
+source .venv/bin/activate
+```
+
+### 5. Instalar dependências
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Executar a aplicação
+### 6. Executar a aplicação
 
 ```bash
 streamlit run app.py
