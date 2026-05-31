@@ -173,9 +173,7 @@ O sistema permite:
 
 ## Desenvolvedores:
 - Beatriz Brito
-- Davi de Souza
 - Giovanna Monteiro
-- Leonardo Dias
 - Mariana Paiva
 - Othon Flávio
 
